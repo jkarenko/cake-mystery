@@ -1,0 +1,59 @@
+title = "Character descriptions"
+game_name = "Village Life - The Mystery of the Missing Cake"
+
+[characters]
+
+[characters.cook]
+name = "Bertha"
+age = 77
+is_player = false
+status = "alive"
+profession = "retired cook"
+gender = "female"
+body = "Tough despite the high age. Is known for walking briskly. Always wears bright colors and her signature is a wide hat with fruit decorations on top. She is in full yellow on Mondays. Wears glasses."
+relationships = "Is starting to have issues with her memory. This causes mistrust in the other villagers. Is well liked because is always available to help with any problem the people might have. Is hard on her son but shows a lot of love for her grandchildren (which she has five in total). Husband is long gone, and she doesn’t miss him too much."
+background = "Has a hobby of baking and likes to participate in bake-offs. Is losing her touch a little. Was a cook in her younger days before getting married at 24."
+
+[characters.cop]
+name = "Oscar"
+age = 45
+is_player = false
+status = "alive"
+profession = "(crooked) cop"
+gender = "male"
+body = "used to be more athletic, eating too many doughnuts is beginning to show. Dark hair and furrowed brows."
+relationships = "Good friends with the corrupt mayor. Has a wife and estranged daughter. Does not have many friends."
+background = "The villagers do not like the policeman. They know he doesn’t play by the rules. But they avoid confrontation because of his position of power. Hangs out mostly by himself or with his brother, who is also known for shady business."
+
+[characters.beggar]
+name = "Olivia"
+age = 25
+is_player = false
+status = "alive"
+profession = "beggar"
+gender = "female"
+body = "Slender. Long grayish hair and shabby clothes. Scars on her face make her look intimidating."
+relationships = "Know everyone in the village but is close to only a few of them. Is an orphan. People know she isn’t after trouble but bites back if you mess with her."
+background = "Knows everything that goes on in the village. The villagers avoid her but do not think she is dangerous. She is cunning and clever and uses those abilities to survive on the streets."
+
+[characters.bakers_kid]
+name = "Sally"
+age = 11
+is_player = false
+status = "alive"
+profession = "student"
+gender = "female"
+body = "Short for her age but quick on her feet. She wears her hair in short golden pigtails."
+relationships = "She is her father’s favorite. Has three older sisters. Her mother is very busy and often does not have enough time for her."
+background = "Has a sweet tooth and a habit of lying. However, not really a bad kid. Does her homework and brings an apple to the teacher every day."
+
+[characters.village_fool]
+name = "Arthur"
+age = 30
+is_player = false
+status = "alive"
+profession = "village fool"
+gender = "male"
+body = "Very much the average in all aspects. Brown eyes and brown hair."
+relationships = "Is the life of the party in social gatherings. Is close to the other males his age in the village. Father is dead so he takes care of his mother. Does not have siblings."
+background = "Likes pranks and jokes but means well. Has a bit of a drinking problem. Is not good with money or numbers but does not cause problems for others. Is generally liked, but sometimes laughed at."

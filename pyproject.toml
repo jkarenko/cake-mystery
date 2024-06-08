@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "The Case of The Missing Cake"
+version = "0.1.0-alpha"
+description = "A text-based adventure game where you play as a detective trying to solve the case of the missing cake."
+authors = ["jkarenko <juho.karenko@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
